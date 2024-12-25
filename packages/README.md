@@ -2,7 +2,7 @@
 
 |插件名|下载|简介|编译日期|
 | :----: | :----: | :----: | :----: |
-| [unblockneteasemusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) | [通用](https://github.com/bcseputetto/Are-u-ok/raw/master/packages/generic/unblockneteasemusic.run) | (网易云音乐解锁)luci-app-unblockneteasemusic v3.3-2 JavaScript Version |2024-09-15|
+| [unblockneteasemusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) | [通用](https://github.com/bcseputetto/Are-u-ok/raw/master/packages/generic/unblockneteasemusic.run) | (网易云音乐解锁)luci-app-unblockneteasemusic v3.3-3 JavaScript Version |2024-12-24|
 | [mosdns](https://github.com/sbwml/luci-app-mosdns) | [x86_64](https://github.com/bcseputetto/Are-u-ok/raw/master/packages/x86_64/mosdns_5.3.3-3_x86_64_luci_1.6.8_all.run) \| [aarch64_a53](https://github.com/bcseputetto/Are-u-ok/raw/master/packages/aarch64/mosdns_5.3.3-3_aarch64_a53_luci_1.6.8_all.run) | (DNS分流)luci-app-mosdns 1.6.8 with mosdns 5.3.3 |2024-12-17|
 | [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | [通用](https://github.com/bcseputetto/Are-u-ok/raw/master/packages/generic/adguardhome.run) | (DNS+广告过滤)luci-app-adguardhome by sirpdboy |2024-06-30|
 | [autotimeset](https://github.com/sirpdboy/luci-app-autotimeset) | [通用](https://github.com/bcseputetto/Are-u-ok/raw/master/packages/generic/autotimeset.run) | (定时任务)luci-app-autotimeset by sirpdboy |2024-04-12|
