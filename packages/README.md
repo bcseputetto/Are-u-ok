@@ -50,7 +50,7 @@
     <td rowspan="4"; align="center"><a href="https://github.com/Thaolga/openwrt-nekobox">NekoBox</a></td>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/x86_64/NekoBox_1.6.1-cn_x86_64_all.run">x86_64</a></td>
     <td rowspan="4"; align="center">(梯子客户端)luci-app-nekobox 1.6.1-cn</td>
-    <td rowspan="4"; align="center">2023-12-22</td>
+    <td rowspan="4"; align="center">2024-12-22</td>
 </tr>
 <tr>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/aarch64/NekoBox_1.6.1-cn_aarch64_a53_all.run">aarch64_a53</a></td>
