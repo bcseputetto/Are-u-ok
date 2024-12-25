@@ -1,4 +1,5 @@
 #### iStore .run 软件包
+* **如果你不确定系统架构，可以在终端里执行 `source /etc/os-release;echo $OPENWRT_ARCH`，也可以检查你当前使用的软件源地址里的架构信息。**
 
 <table align="center">
 <tr align="center">
