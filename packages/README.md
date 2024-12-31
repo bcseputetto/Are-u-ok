@@ -12,7 +12,7 @@
     <td rowspan="1"; align="center"><a href="https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic">unblockneteasemusic</a></td>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/generic/unblockneteasemusic.run">通用</a></td>
     <td align="center">(网易云音乐解锁)luci-app-unblockneteasemusic v3.3-3 JavaScript Version</td>
-    <td align="center">2024-12-24</td>
+    <td align="center" width=12%>2024-12-24</td>
 </tr>
 <tr align="center">
     <td rowspan="4"; align="center"><a href="https://github.com/sbwml/luci-app-mosdns">mosdns</a></td>
