@@ -2,8 +2,8 @@
 
 #### 常用梯子软件包 Commonly Used Proxy Packages
 
-* [请到releases下载](https://github.com/bcseputetto/Are-u-ok/releases)
-
+* [适用于22.03的软件包](https://github.com/bcseputetto/Are-u-ok/releases/latest)
+* [24.10测试](https://github.com/bcseputetto/Are-u-ok/releases/tag/iStoreOS_24.10.X)
 
 #### 其它软件包 Other Packages
 
