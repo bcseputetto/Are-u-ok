@@ -8,4 +8,5 @@
 #### 其它软件包 Other Packages
 
 * [Packages](https://github.com/bcseputetto/Are-u-ok/blob/master/packages/README.md)
+* [24.10测试Packages](https://github.com/bcseputetto/Are-u-ok/blob/master/packages_24.10/README.md)
 

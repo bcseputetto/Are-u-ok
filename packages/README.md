@@ -16,18 +16,18 @@
 </tr>
 <tr align="center">
     <td rowspan="4"; align="center"><a href="https://github.com/sbwml/luci-app-mosdns">mosdns</a></td>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/x86_64/mosdns_5.3.3-3_x86_64_luci_1.6.8_all.run">x86_64</a></td>
-    <td rowspan="4"; align="center">(DNS分流)luci-app-mosdns 1.6.8 with mosdns 5.3.3</td>
-    <td rowspan="4"; align="center">2024-12-17</td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/x86_64/mosdns_5.3.3-3_x86_64_luci_1.6.9_all.run">x86_64</a></td>
+    <td rowspan="4"; align="center">(DNS分流)luci-app-mosdns 1.6.9 with mosdns 5.3.3</td>
+    <td rowspan="4"; align="center">2025-01-19</td>
 </tr>
 <tr>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/aarch64/mosdns_5.3.3-3_aarch64_a53_luci_1.6.8_all.run">aarch64_a53</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/aarch64/mosdns_5.3.3-3_aarch64_a53_luci_1.6.9_all.run">aarch64_a53</a></td>
 </tr>
 <tr>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/aarch64/mosdns_5.3.3-3_aarch64_a72_luci_1.6.8_all.run">aarch64_a72</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/aarch64/mosdns_5.3.3-3_aarch64_a72_luci_1.6.9_all.run">aarch64_a72</a></td>
 </tr>
 <tr>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/aarch64/mosdns_5.3.3-3_aarch64_generic_luci_1.6.8_all.run">aarch64_generic</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/aarch64/mosdns_5.3.3-3_aarch64_generic_luci_1.6.9_all.run">aarch64_generic</a></td>
 </tr>
 <tr align="center">
     <td rowspan="1"; align="center"><a href="https://github.com/sirpdboy/sirpdboy-package">AdGuardHome</a></td>
