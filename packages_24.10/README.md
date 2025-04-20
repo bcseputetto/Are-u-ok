@@ -9,10 +9,40 @@
     <th align="center">编译日期</th>
 </tr>
 <tr align="center">
+    <td rowspan="1"; align="center"><a href="https://github.com/bcseputetto/adguardhome">AdGuardHome</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/generic/adguardhome.run">通用</a></td>
+    <td align="center">(DNS+广告过滤)luci-app-adguardhome</td>
+    <td align="center">2025-04-20</td>
+</tr>
+<tr align="center">
+    <td rowspan="1"; align="center"><a href="https://github.com/sirpdboy/luci-app-eqosplus">eqosplus</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/generic/eqosplus_1.2.5.run">通用</a></td>
+    <td align="center">(定时限速)luci-app-eqosplus 1.2.5 by sirpdboy</td>
+    <td align="center">2025-04-20</td>
+</tr>
+<tr align="center">
+    <td rowspan="1"; align="center"><a href="https://github.com/sirpdboy/luci-app-taskplan">taskplan</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/generic/taskplan.run">通用</a></td>
+    <td align="center">(定时任务)luci-app-taskplan by sirpdboy</td>
+    <td align="center">2025-04-20</td>
+</tr>
+<tr align="center">
+    <td rowspan="1"; align="center"><a href="https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic">unblockneteasemusic</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/generic/unblockneteasemusic.run">通用</a></td>
+    <td align="center">(网易云音乐解锁)luci-app-unblockneteasemusic v3.3-3 JavaScript Version</td>
+    <td align="center" width=12%>2025-04-20</td>
+</tr>
+<tr align="center">
+    <td rowspan="1"; align="center"><a href="https://github.com/brvphoenix/luci-app-wrtbwmon">wrtbwmon</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/generic/wrtbwmon_2.0.13.run">通用</a></td>
+    <td align="center">(实时流量监控)luci-app-wrtbwmon 2.0.13</td>
+    <td align="center">2025-04-20</td>
+</tr>
+<tr align="center">
     <td rowspan="1"; align="center"><a href="https://github.com/sbwml/luci-app-mosdns">mosdns</a></td>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/x86_64/mosdns_5.3.3-3_x86_64_luci_1.6.9_sdk_24.10.0_all.run">x86_64</a></td>
-    <td align="center">(DNS分流)luci-app-mosdns 1.6.9 with mosdns 5.3.3</td>
-    <td align="center">2025-01-19</td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/x86_64/mosdns_5.3.3-r4_x86_64_luci_1.6.11-r1_sdk_24.10.0_all.run">x86_64</a></td>
+    <td align="center">(DNS分流)luci-app-mosdns 1.6.11-r1 with mosdns 5.3.3-r4</td>
+    <td align="center">2025-04-20</td>
 </tr>
 </table>
 
