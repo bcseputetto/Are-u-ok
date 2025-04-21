@@ -39,8 +39,23 @@
     <td align="center">2025-04-20</td>
 </tr>
 <tr align="center">
-    <td rowspan="1"; align="center"><a href="https://github.com/sbwml/luci-app-mosdns">mosdns</a></td>
+    <td rowspan="4"; align="center"><a href="https://github.com/sbwml/luci-app-mosdns">mosdns</a></td>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/x86_64/mosdns_5.3.3-r4_x86_64_luci_1.6.11-r1_sdk_24.10.0_all.run">x86_64</a></td>
+    <td align="center">(DNS分流)luci-app-mosdns 1.6.11-r1 with mosdns 5.3.3-r4</td>
+    <td align="center">2025-04-20</td>
+</tr>
+<tr align="center">
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/aarch64/mosdns_5.3.3-r4_aarch64_generic_luci_1.6.11-r1_sdk_24.10.0_all.run">aarch64_generic</a></td>
+    <td align="center">(DNS分流)luci-app-mosdns 1.6.11-r1 with mosdns 5.3.3-r4</td>
+    <td align="center">2025-04-20</td>
+</tr>
+<tr align="center">
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/aarch64/mosdns_5.3.3-r4_aarch64_a53_luci_1.6.11-r1_sdk_24.10.0_all.run">aarch64_a53</a></td>
+    <td align="center">(DNS分流)luci-app-mosdns 1.6.11-r1 with mosdns 5.3.3-r4</td>
+    <td align="center">2025-04-20</td>
+</tr>
+<tr align="center">
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/aarch64/mosdns_5.3.3-r4_aarch64_a72_luci_1.6.11-r1_sdk_24.10.0_all.run">aarch64_a72</a></td>
     <td align="center">(DNS分流)luci-app-mosdns 1.6.11-r1 with mosdns 5.3.3-r4</td>
     <td align="center">2025-04-20</td>
 </tr>
