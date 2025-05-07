@@ -11,8 +11,8 @@
 <tr align="center">
     <td rowspan="1"; align="center"><a href="https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic">unblockneteasemusic</a></td>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/generic/unblockneteasemusic.run">通用</a></td>
-    <td align="center">(网易云音乐解锁)luci-app-unblockneteasemusic v3.3-3 JavaScript Version</td>
-    <td align="center" width=12%>2024-12-24</td>
+    <td align="center">(网易云音乐解锁)luci-app-unblockneteasemusic 3.3</td>
+    <td align="center" width=12%>2025-05-08</td>
 </tr>
 <tr align="center">
     <td rowspan="4"; align="center"><a href="https://github.com/sbwml/luci-app-mosdns">mosdns</a></td>
@@ -36,16 +36,16 @@
     <td align="center">2024-06-30</td>
 </tr>
 <tr align="center">
-    <td rowspan="1"; align="center"><a href="https://github.com/sirpdboy/luci-app-autotimeset">autotimeset</a></td>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/generic/autotimeset.run">通用</a></td>
-    <td align="center">(定时任务)luci-app-autotimeset by sirpdboy</td>
-    <td align="center">2024-04-12</td>
+    <td rowspan="1"; align="center"><a href="https://github.com/sirpdboy/luci-app-taskplan">taskplan</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/generic/taskplan.run">通用</a></td>
+    <td align="center">(定时任务)luci-app-taskplan by sirpdboy</td>
+    <td align="center">2025-05-08</td>
 </tr>
 <tr align="center">
     <td rowspan="1"; align="center"><a href="https://github.com/sirpdboy/luci-app-eqosplus">eqosplus</a></td>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages/generic/eqosplus_1.2.5.run">通用</a></td>
     <td align="center">(定时限速)luci-app-eqosplus 1.2.5 by sirpdboy</td>
-    <td align="center">2024-11-22</td>
+    <td align="center">2025-05-08</td>
 </tr>
 <tr align="center">
     <td rowspan="1"; align="center"><a href="https://github.com/brvphoenix/luci-app-wrtbwmon">wrtbwmon</a></td>
