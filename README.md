@@ -7,6 +7,5 @@
 
 #### 其它软件包 Other Packages
 
-* [22.03 Packages](https://github.com/bcseputetto/Are-u-ok/blob/master/packages/README.md)
-* [24.10 Packages](https://github.com/bcseputetto/Are-u-ok/blob/master/packages_24.10/README.md)
-
+* [适用于22.03的软件包](https://github.com/bcseputetto/Are-u-ok/blob/master/packages/README.md)
+* [适用于24.10的软件包](https://github.com/bcseputetto/Are-u-ok/blob/master/packages_24.10/README.md)
