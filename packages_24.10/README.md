@@ -63,7 +63,13 @@
     <td rowspan="1"; align="center"><a href="https://github.com/kiddin9/kwrt-packages">openvpn_server</a></td>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/generic/openvpn_server.run">通用</a></td>
     <td align="center">luci-app-openvpn-server from kiddin9</td>
-    <td align="center">2025-04-20</td>
+    <td align="center">2025-12-08</td>
+</tr>
+<tr align="center">
+    <td rowspan="1"; align="center"><a href="https://github.com/kiddin9/kwrt-packages">openvpn_client</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/generic/openvpn_client.run">通用</a></td>
+    <td align="center">luci-app-openvpn-client from kiddin9</td>
+    <td align="center">2025-12-13</td>
 </tr>
 </table>
 
