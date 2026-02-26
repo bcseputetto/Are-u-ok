@@ -12,7 +12,7 @@ docker run -d \
   -v $DIRECTORY_PATH/mongo/data:/data/db \
   -v $DIRECTORY_PATH/mongo/init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro \
   --restart unless-stopped \
-  mongo:4.4.27
+  mongo:4.4.30
 sleep 10
 docker run -d \
   --name=unifi-network-application \
