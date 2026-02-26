@@ -1,6 +1,6 @@
 #!/bin/sh
 DIRECTORY_PATH=$1
-docker pull mongo:4.4.27
+docker pull mongo:4.4.30
 docker pull linuxserver/unifi-network-application:latest
 mkdir -p $DIRECTORY_PATH/mongo
 echo "db.getSiblingDB(\"unifi\").createUser({user: \"unifi\", pwd: \"unifi_istoreos\", roles: [{role: \"dbOwner\", db: \"unifi\"}]});" >> "$DIRECTORY_PATH/mongo/init-mongo.js"
