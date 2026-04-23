@@ -40,24 +40,24 @@
 </tr>
 <tr align="center">
     <td rowspan="4"; align="center"><a href="https://github.com/sbwml/luci-app-mosdns">mosdns</a></td>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/x86_64/mosdns_5.3.4-r2_x86_64_luci_1.7.0-r1_sdk_24.10_all.run">x86_64</a></td>
-    <td align="center">(DNS分流)luci-app-mosdns 1.7.0-r1 with mosdns 5.3.4-r2</td>
-    <td align="center">2026-04-01</td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/x86_64/mosdns_5.3.4-r3_x86_64_luci_1.7.1-r1_sdk_24.10_all.run">x86_64</a></td>
+    <td align="center">(DNS分流)luci-app-mosdns 1.7.1-r1 with mosdns 5.3.4-r3</td>
+    <td align="center">2026-04-23</td>
 </tr>
 <tr align="center">
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/aarch64/mosdns_5.3.4-r2_aarch64_generic_luci_1.7.0-r1_sdk_24.10_all.run">aarch64_generic</a></td>
-    <td align="center">(DNS分流)luci-app-mosdns 1.7.0-r1 with mosdns 5.3.4-r2</td>
-    <td align="center">2026-04-01</td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/aarch64/mosdns_5.3.4-r3_aarch64_generic_luci_1.7.1-r1_sdk_24.10_all.run">aarch64_generic</a></td>
+    <td align="center">(DNS分流)luci-app-mosdns 1.7.1-r1 with mosdns 5.3.4-r3</td>
+    <td align="center">2026-04-23</td>
 </tr>
 <tr align="center">
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/aarch64/mosdns_5.3.4-r2_aarch64_a53_luci_1.7.0-r1_sdk_24.10_all.run">aarch64_a53</a></td>
-    <td align="center">(DNS分流)luci-app-mosdns 1.7.0-r1 with mosdns 5.3.4-r2</td>
-    <td align="center">2026-04-01</td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/aarch64/mosdns_5.3.4-r3_aarch64_a53_luci_1.7.1-r1_sdk_24.10_all.run">aarch64_a53</a></td>
+    <td align="center">(DNS分流)luci-app-mosdns 1.7.1-r1 with mosdns 5.3.4-r3</td>
+    <td align="center">2026-04-23</td>
 </tr>
 <tr align="center">
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/aarch64/mosdns_5.3.4-r2_aarch64_a72_luci_1.7.0-r1_sdk_24.10_all.run">aarch64_a72</a></td>
-    <td align="center">(DNS分流)luci-app-mosdns 1.7.0-r1 with mosdns 5.3.4-r2</td>
-    <td align="center">2026-04-01</td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/aarch64/mosdns_5.3.4-r3_aarch64_a72_luci_1.7.1-r1_sdk_24.10_all.run">aarch64_a72</a></td>
+    <td align="center">(DNS分流)luci-app-mosdns 1.7.1-r1 with mosdns 5.3.4-r3</td>
+    <td align="center">2026-04-23</td>
 </tr>
 <tr align="center">
     <td rowspan="1"; align="center"><a href="https://github.com/kiddin9/kwrt-packages">openvpn_server</a></td>
