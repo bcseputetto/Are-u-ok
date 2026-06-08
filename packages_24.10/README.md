@@ -54,6 +54,15 @@
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/aarch64/mosdns_5.3.4-r5_aarch64_a72_luci_1.7.2-r1_sdk_24.10_all.run">aarch64_a72</a></td>
 </tr>
 <tr align="center">
+    <td rowspan="2"; align="center"><a href="https://github.com/pymumu/smartdns">smartdns</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/x86_64/smartdns_2026.06.07-1153_x86_64_all.run">x86_64</a></td>
+    <td rowspan="2"; align="center">(DNS/DNS分流)smartdns_2026.06.07-1153</td>
+    <td rowspan="2"; align="center">2026-06-07</td>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/aarch64/smartdns_2026.06.07-1153_aarch64_all.run">aarch64</a></td>
+</tr>
+<tr align="center">
     <td rowspan="4"; align="center"><a href="https://github.com/timsaya/luci-app-bandix">bandix</a></td>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/x86_64/bandix_0.12.9-r1_x86_64_luci_0.12.8-r1_sdk_24.10_all.run">x86_64</a></td>
     <td rowspan="4"; align="center">(流量监控)luci-app-bandix 0.12.8-r1 with bandix 0.12.9-r1</td>
