@@ -57,13 +57,13 @@
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/bandix_0.12.9-r1_aarch64_a72_luci_0.12.8-r1_sdk_25.12_all.run">aarch64_a72</a></td>
 </tr>
 <tr align="center">
-    <td rowspan="1"; align="center"><a href="https://github.com/kiddin9/kwrt-packages">openvpn_server</a></td>
+    <td rowspan="1"; align="center"><a href="https://github.com/kiddin9/op-packages">openvpn_server</a></td>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/openvpn_server_2.0-r1_sdk_25.12.run">通用</a></td>
     <td align="center">luci-app-openvpn-server from kiddin9</td>
     <td align="center">2026-08-08</td>
 </tr>
 <tr align="center">
-    <td rowspan="1"; align="center"><a href="https://github.com/kiddin9/kwrt-packages">openvpn_client</a></td>
+    <td rowspan="1"; align="center"><a href="https://github.com/kiddin9/op-packages">openvpn_client</a></td>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/openvpn_client_20250227-r2_sdk_25.12.run">通用</a></td>
     <td align="center">luci-app-openvpn-client from kiddin9</td>
     <td align="center">2026-08-08</td>
