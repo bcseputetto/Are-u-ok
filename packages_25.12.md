@@ -1,5 +1,5 @@
 #### iStore .run 软件包
-* *** 这是 iStoreOS 25.12分支测试版的 .run包，iStoreOS 25.12测试详见 https://github.com/istoreos/istoreos/discussions/3008**
+* ** 这是 iStoreOS 25.12分支测试版的 .run包，iStoreOS 25.12测试详见 https://github.com/istoreos/istoreos/discussions/3008 **
 * 适用于KoolCenter iStoreOS 25.12.X的软件包
 * 必须是使用apk包管理器的固件
 * **如果你不确定系统架构，可以在终端里执行 `source /etc/os-release;echo $OPENWRT_ARCH`，也可以检查你当前使用的软件源地址里的架构信息。**
