@@ -17,10 +17,19 @@
     <td align="center">2026-08-08</td>
 </tr>
 <tr align="center">
-    <td rowspan="1"; align="center"><a href="https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic">unblockneteasemusic</a></td>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/unblockneteasemusic_3.4-r1_sdk_25.12.run">通用</a></td>
-    <td align="center">(网易云音乐解锁)luci-app-unblockneteasemusic v3.4-r1 JavaScript Version</td>
-    <td align="center">2026-09-12</td>
+    <td rowspan="4"; align="center"><a href="https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic">unblockneteasemusic</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/unblockneteasemusic_3.4-r1_x86_64_sdk_25.12.run">x86_64</a></td>
+    <td rowspan="4"; align="center">(网易云音乐解锁)luci-app-unblockneteasemusic v3.4-r1 JavaScript Version</td>
+    <td rowspan="4"; align="center">2026-09-12</td>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/unblockneteasemusic_3.4-r1_aarch64_generic_sdk_25.12.run">aarch64_generic</a></td>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/unblockneteasemusic_3.4-r1_aarch64_a53_sdk_25.12.run">aarch64_a53</a></td>
+</tr>
+<tr>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/unblockneteasemusic_3.4-r1_aarch64_a72_sdk_25.12.run">aarch64_a72</a></td>
 </tr>
 <tr align="center">
     <td rowspan="4"; align="center"><a href="https://github.com/sbwml/luci-app-mosdns">mosdns</a></td>
