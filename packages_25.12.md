@@ -17,6 +17,12 @@
     <td align="center">2026-08-08</td>
 </tr>
 <tr align="center">
+    <td rowspan="1"; align="center"><a href="https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic">unblockneteasemusic</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/unblockneteasemusic_3.4-r1_sdk_25.12.run">通用</a></td>
+    <td align="center">(网易云音乐解锁)luci-app-unblockneteasemusic v3.4-r1 JavaScript Version</td>
+    <td align="center">2026-09-12</td>
+</tr>
+<tr align="center">
     <td rowspan="4"; align="center"><a href="https://github.com/sbwml/luci-app-mosdns">mosdns</a></td>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/mosdns_5.3.4-r6_x86_64_luci_1.7.4-r1_sdk_25.12_all.run">x86_64</a></td>
     <td rowspan="4"; align="center">(DNS分流)luci-app-mosdns 1.7.4-r1 with mosdns 5.3.4-r6</td>
