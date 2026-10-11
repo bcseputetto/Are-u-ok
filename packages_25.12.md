@@ -33,18 +33,18 @@
 </tr>
 <tr align="center">
     <td rowspan="4"; align="center"><a href="https://github.com/sbwml/luci-app-mosdns">mosdns</a></td>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/mosdns_5.3.4-r6_x86_64_luci_1.7.4-r1_sdk_25.12_all.run">x86_64</a></td>
-    <td rowspan="4"; align="center">(DNS分流)luci-app-mosdns 1.7.4-r1 with mosdns 5.3.4-r6</td>
-    <td rowspan="4"; align="center">2026-08-08</td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/mosdns_5.3.4-r14_x86_64_luci_1.7.14-r1_sdk_25.12_all.run">x86_64</a></td>
+    <td rowspan="4"; align="center">(DNS分流)luci-app-mosdns 1.7.14-r1 with mosdns 5.3.4-r14</td>
+    <td rowspan="4"; align="center">2026-10-11</td>
 </tr>
 <tr>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/mosdns_5.3.4-r6_aarch64_generic_luci_1.7.4-r1_sdk_25.12_all.run">aarch64_generic</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/mosdns_5.3.4-r14_aarch64_generic_luci_1.7.14-r1_sdk_25.12_all.run">aarch64_generic</a></td>
 </tr>
 <tr>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/mosdns_5.3.4-r6_aarch64_a53_luci_1.7.4-r1_sdk_25.12_all.run">aarch64_a53</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/mosdns_5.3.4-r14_aarch64_a53_luci_1.7.14-r1_sdk_25.12_all.run">aarch64_a53</a></td>
 </tr>
 <tr>
-    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/mosdns_5.3.4-r6_aarch64_a72_luci_1.7.4-r1_sdk_25.12_all.run">aarch64_a72</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_25.12/mosdns_5.3.4-r14_aarch64_a72_luci_1.7.14-r1_sdk_25.12_all.run">aarch64_a72</a></td>
 </tr>
 <tr align="center">
     <td rowspan="2"; align="center"><a href="https://github.com/pymumu/smartdns">smartdns</a></td>
@@ -96,9 +96,9 @@ sh 包名.run
 ```
 例
 ```console
-sh mosdns_5.3.4-r6_x86_64_luci_1.7.4-r1_sdk_25.12_all.run
+sh mosdns_5.3.4-r14_x86_64_luci_1.7.14-r1_sdk_25.12_all.run
 ```
 如果文件不在当前路径记得填写路径，下例
 ```console
-sh /tmp/upload/mosdns_5.3.4-r6_x86_64_luci_1.7.4-r1_sdk_25.12_all.run
+sh /tmp/upload/mosdns_5.3.4-r14_x86_64_luci_1.7.14-r1_sdk_25.12_all.run
 ```
