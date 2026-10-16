@@ -56,7 +56,7 @@
 <tr align="center">
     <td rowspan="2"; align="center"><a href="https://github.com/pymumu/smartdns">smartdns</a></td>
     <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/releases/download/iStoreOS_24.10/smartdns_2026.08.05-0921_x86_64_sdk_24.10_all.run">x86_64</a></td>
-    <td rowspan="2"; align="center">(DNS/DNS分流)smartdns_2026.06.07-1153</td>
+    <td rowspan="2"; align="center">(DNS/DNS分流)smartdns_2026.08.05-0921</td>
     <td rowspan="2"; align="center">2026-08-05</td>
 </tr>
 <tr>
