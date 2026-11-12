@@ -89,6 +89,12 @@
     <td align="center">luci-app-openvpn-client from kiddin9</td>
     <td align="center">2025-12-13</td>
 </tr>
+<tr align="center">
+    <td rowspan="1"; align="center"><a href="https://github.com/mmwx-group/meowx-openwrt">MeowX</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/generic/MeowX_online_install.run">通用</a></td>
+    <td align="center">(代理)luci-app-meowx 在线安装包：自动识别 24.10 / 25.12 与架构，从 MeowX 官方软件源安装最新版，路由器需能联网<br>※该.run包含有执行<a href="https://dl.miaomiaowux.com/meowx/openwrt/install.sh">外部安装脚本</a>，远程服务器的拥有者或该插件的开发者可在不变更该.run文件的前提下修改安装脚本。该.run文件等效于执行<a href="https://github.com/mmwx-group/meowx-openwrt">meowx-openwrt仓库</a>README中安装的方式一。本仓库不会在后续审查该.run包的外部安装脚本，如有风险问题请到插件原始仓库反馈。</br></td>
+    <td align="center">2026-11-11</td>
+</tr>
 </table>
 
 * 如何安装
