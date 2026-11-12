@@ -89,6 +89,12 @@
     <td align="center">luci-app-openvpn-client from kiddin9</td>
     <td align="center">2025-12-13</td>
 </tr>
+<tr align="center">
+    <td rowspan="1"; align="center"><a href="https://github.com/mmwx-group/meowx-openwrt">MeowX</a></td>
+    <td align="center"><a href="https://github.com/bcseputetto/Are-u-ok/raw/master/packages_24.10/generic/MeowX_online_install.run">通用</a></td>
+    <td align="center">(代理)luci-app-meowx 在线安装包：自动识别 24.10 / 25.12 与架构，从 MeowX 官方软件源安装最新版，路由器需能联网</td>
+    <td align="center">2026-11-11</td>
+</tr>
 </table>
 
 * 如何安装
